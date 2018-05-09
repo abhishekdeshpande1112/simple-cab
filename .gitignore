@@ -1,0 +1,4 @@
+# Editor directories and files
+.idea
+/client/target
+/server/target
